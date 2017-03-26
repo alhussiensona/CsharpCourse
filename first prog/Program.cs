@@ -10,6 +10,7 @@ namespace first_prog
     {
         static void Main(string[] args)
         {
+            //this is a comment
             Console.WriteLine("hello world"); 
             Console.WriteLine("tozfeko"); Console.ReadKey();
         }
